@@ -1,0 +1,15 @@
+C:\КорижинГригорий\final_2_korizhin\kafe_app_korizhin\bin\Debug\kafe_app_korizhin.exe.config
+C:\КорижинГригорий\final_2_korizhin\kafe_app_korizhin\bin\Debug\kafe_app_korizhin.exe
+C:\КорижинГригорий\final_2_korizhin\kafe_app_korizhin\bin\Debug\kafe_app_korizhin.pdb
+C:\КорижинГригорий\final_2_korizhin\kafe_app_korizhin\obj\Debug\kafe_app_korizhin.csproj.AssemblyReference.cache
+C:\КорижинГригорий\final_2_korizhin\kafe_app_korizhin\obj\Debug\MainWindow.g.cs
+C:\КорижинГригорий\final_2_korizhin\kafe_app_korizhin\obj\Debug\App.g.cs
+C:\КорижинГригорий\final_2_korizhin\kafe_app_korizhin\obj\Debug\kafe_app_korizhin_MarkupCompile.cache
+C:\КорижинГригорий\final_2_korizhin\kafe_app_korizhin\obj\Debug\kafe_app_korizhin_MarkupCompile.lref
+C:\КорижинГригорий\final_2_korizhin\kafe_app_korizhin\obj\Debug\MainWindow.baml
+C:\КорижинГригорий\final_2_korizhin\kafe_app_korizhin\obj\Debug\kafe_app_korizhin.g.resources
+C:\КорижинГригорий\final_2_korizhin\kafe_app_korizhin\obj\Debug\kafe_app_korizhin.Properties.Resources.resources
+C:\КорижинГригорий\final_2_korizhin\kafe_app_korizhin\obj\Debug\kafe_app_korizhin.csproj.GenerateResource.cache
+C:\КорижинГригорий\final_2_korizhin\kafe_app_korizhin\obj\Debug\kafe_app_korizhin.csproj.CoreCompileInputs.cache
+C:\КорижинГригорий\final_2_korizhin\kafe_app_korizhin\obj\Debug\kafe_app_korizhin.exe
+C:\КорижинГригорий\final_2_korizhin\kafe_app_korizhin\obj\Debug\kafe_app_korizhin.pdb
